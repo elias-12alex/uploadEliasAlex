@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1623723770 source:c:\users\elias\onedrive\Área de trabalho\tp2_elias_alexander_santos_de_almeida\tp2_elias_alexander_santos_de_almeida\torredehanoi.c
+	<stdio.h>
+	<stdlib.h>
+	"TorreDeHanoi.h"
+
+1623723818 c:\users\elias\onedrive\Área de trabalho\tp2_elias_alexander_santos_de_almeida\tp2_elias_alexander_santos_de_almeida\torredehanoi.h
+	<stdio.h>
+	<stdlib.h>
+
+1623722332 source:c:\users\elias\onedrive\Área de trabalho\tp2_elias_alexander_santos_de_almeida\tp2_elias_alexander_santos_de_almeida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"TorreDeHanoi.h"
+
