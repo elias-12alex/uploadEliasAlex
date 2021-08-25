@@ -12,7 +12,6 @@ int **cria_mat(){
     return mat;
 }
 
-
 void preencher_mat(int **matrix){
     for(int i = 0; i < 6; i++){
 		for(int j = 0; j < 6; j++){
